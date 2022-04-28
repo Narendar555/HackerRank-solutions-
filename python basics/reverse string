@@ -1,4 +1,4 @@
-# HackerRank-solutions-
+# python basics-
 here i am uploading all solutions for hackerrank problems.
 s=str(input("enter any string to reverse"))
 sl=len(s)
