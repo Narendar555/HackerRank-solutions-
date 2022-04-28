@@ -1,0 +1,9 @@
+# HackerRank-solutions-
+here i am uploading all solutions for hackerrank problems.
+s=str(input("enter any string to reverse"))
+sl=len(s)
+i=sl
+while i>0:
+    print(s[i-1])
+    i=i-1
+
